@@ -14,4 +14,22 @@ c.	AdaBoost classifier - for feature extraction
 
 In addition, we will execute this spam filter as a GUI which will contain client input, a submit catch and a yield screen utilizing kivy module. 
 
+# Steps to run 
 
+1. Clone the repository
+2. Install dependencies by pip install -r requirements.txt
+3. Run main.py
+
+# Output 
+
+![output1](output1.jpg)
+
+![output1](output2.jpg)
+
+![output1](output3.jpg)
+
+![output1](output4.jpg)
+
+![output1](output5.jpg)
+
+![output1](output6.jpg)
